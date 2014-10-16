@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[ade:home|Door43 (ade)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-ade|d43-ade repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-ade/archive/master.zip|d43-ade.zip]]
+
+**Recent Changes**
+{{changes>ns = ade}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/ade|Ethnologue data]]
+
